@@ -6,12 +6,10 @@ Frontend-разработчик с 3.5 годами коммерческого �
 
 ### 🛠 Мой технологический стек
 
-| Направление | Инструменты и технологии |
-| :--- | :--- |
-| **Core & Frontend** | ![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![React](https://shields.io) ![Svelte](https://shields.io) ![Redux Toolkit](https://shields.io) |
-| **Архитектура & Тесты** | ![FSD](https://shields.io💡-blue?style=flat-square) ![Playwright](https://shields.io) ![OWASP](https://shields.io🔒-red?style=flat-square) |
-| **Backend & DB** | ![Node.js](https://shields.io) ![.NET Core](https://shields.io) ![PostgreSQL](https://shields.io) ![MongoDB](https://shields.io) |
-| **DevOps & Сборка** | ![Docker](https://shields.io) ![GitHub Actions](https://shields.io) ![Vite](https://shields.io) ![Sass](https://shields.io) |
+* **Core & Frontend:** JavaScript (ES6+), TypeScript, React, Svelte, Redux Toolkit, HTML5, CSS3, SCSS/SASS
+* **Архитектура & Тесты:** Feature-Sliced Design (FSD), Playwright, AppSec / OWASP (Безопасность SPA)
+* **Backend & DB:** Node.js, .NET Core, C#, REST API, WebSocket, PostgreSQL, MySQL, MongoDB
+* **DevOps & Сборка:** Git, Docker, Docker Compose, Vite, GitHub Actions
 
 ---
 
@@ -24,19 +22,9 @@ Frontend-разработчик с 3.5 годами коммерческого �
 
 ---
 
-### 📈 Статистика GitHub
-
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" height="180px"/>
-  <img src="https://vercel.app" alt="Top Languages" height="180px"/>
-</p>
-
----
-
 ### 📬 Контакты для связи
 
 * **Telegram:** [@AvtoBBus](https://t.me)
 * **Email:** mister.voker163@yandex.ru
-* **Резюме:** [Мой профиль на HeadHunter](https://hh.ru) *(замените на реальную ссылку после публикации)*
 
-💬 *«Sounds of a tired bus, but the code is perfectly green.»*
+💬 *«sounds of a tired bus»*
