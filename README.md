@@ -24,7 +24,7 @@ Frontend-разработчик с 3.5 годами коммерческого �
 
 ### 📬 Контакты для связи
 
-* **Telegram:** [@AvtoBBus](https://t.me)
+* **Telegram:** [@Vla_Zem](https://t.me/Vla_Zem)
 * **Email:** mister.voker163@yandex.ru
 
 💬 *«sounds of a tired bus»*
